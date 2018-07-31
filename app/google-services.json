@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1045106203048",
+    "firebase_url": "https://ocr-rt.firebaseio.com",
+    "project_id": "ocr-rt",
+    "storage_bucket": "ocr-rt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045106203048:android:9c0df4b5c0700f31",
+        "android_client_info": {
+          "package_name": "com.avertia.rt.ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045106203048-brmbh5rtnou2khs401g621ejqbe38pg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqEAU32eqN-JDjrcuD2P_K6iQyiFUhYwQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
